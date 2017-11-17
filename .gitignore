@@ -30,3 +30,4 @@ node_modules
 npm-debug.log
 
 dbservice.json
+manifest.yml
